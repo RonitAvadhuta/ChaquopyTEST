@@ -1,4 +1,4 @@
-## ChaquopyTEST for MusiWrite
+ChaquopyTEST for MusiWrite
 
 Framework to Connect Java and Python together in Android Studio using Chaquopy API.
 
